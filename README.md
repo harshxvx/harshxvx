@@ -17,9 +17,8 @@
 
 ### Projects
 
-- 🚀 **[Project One](https://github.com/harshxvx/project-one):** A web application for managing tasks and productivity.
-- 🌐 **[Project Two](https://github.com/harshxvx/project-two):** An open-source API for data analysis and visualization.
-- 📱 **[Project Three](https://github.com/harshxvx/project-three):** A mobile app for tracking fitness and health metrics.
+- 🚀 **[Spotify Album Finder ](https://github.com/harshxvx/spotifyApi):** Uses Spotify Web Api to find album list.
+
 
 
 ### GitHub Stats
