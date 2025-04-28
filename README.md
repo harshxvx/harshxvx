@@ -18,6 +18,7 @@
 ### Projects
 
 - 🚀 **[Spotify Album Finder ](https://github.com/harshxvx/spotifyApi):** Uses Spotify Web Api to find album list.
+-  🚀 **[Flappy Bird Clone ](https://stellular-elf-ef60a0.netlify.app/):** Used Phaser3 To develop a flappy bird clone using HTML and Javascript.
 
 
 
