@@ -28,7 +28,5 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshxvx&layout=compact&theme=radical)
 
-Feel free to explore my repositories and contribute to any projects that interest you. Let's build something amazing together! 🚀
-harshxvx/harshxvx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Feel free to explore my repositories and contribute to any projects that interest you. Let's build something amazing together.
 --->
